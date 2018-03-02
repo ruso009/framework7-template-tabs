@@ -18,7 +18,7 @@ var app  = new Framework7({
       products: [
         {
           id: '1',
-          title: 'Apple iPhone 8',
+          title: 'prueba iPhone 8',
           description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi tempora similique reiciendis, error nesciunt vero, blanditiis pariatur dolor, minima sed sapiente rerum, dolorem corrupti hic modi praesentium unde saepe perspiciatis.'
         },
         {
