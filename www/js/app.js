@@ -5,7 +5,7 @@ var $$ = Dom7;
 var app  = new Framework7({
   root: '#app', // App root element
   id: 'io.framework7.testapp', // App bundle ID
-  name: 'Framework7', // App name
+  name: 'tv', // App name
   theme: 'auto', // Automatic theme detection
   // App root data
   data: function () {
@@ -18,8 +18,10 @@ var app  = new Framework7({
       products: [
         {
           id: '1',
-          title: 'Apple iPhone 8',
-          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi tempora similique reiciendis, error nesciunt vero, blanditiis pariatur dolor, minima sed sapiente rerum, dolorem corrupti hic modi praesentium unde saepe perspiciatis.'
+          title: 'prueba',
+          status: 'ver',
+          url: 'http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8',
+          description: 'canales nacionales'
         },
         {
           id: '2',
