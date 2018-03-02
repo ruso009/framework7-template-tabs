@@ -18,7 +18,9 @@ var app  = new Framework7({
       products: [
         {
           id: '1',
-          title: 'prueba iPhone 8',
+          title: 'prueba',
+          status: 'ver',
+          url: 'http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8',
           description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi tempora similique reiciendis, error nesciunt vero, blanditiis pariatur dolor, minima sed sapiente rerum, dolorem corrupti hic modi praesentium unde saepe perspiciatis.'
         },
         {
